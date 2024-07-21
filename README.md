@@ -34,10 +34,6 @@ MongoDB is used for flexible data storage, supporting:
 - **Course Content**: Videos, images, and PDFs.
 - **User Data**: Details for students and instructors.
 
-## Architecture Diagram
-
-![Architecture Diagram](URL_TO_DIAGRAM)
-
 ## Front-end Details
 
 The front-end is designed using Figma for a clean, user-friendly interface. Frameworks and libraries include:

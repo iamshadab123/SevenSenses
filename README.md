@@ -64,8 +64,6 @@ The API follows RESTful principles and includes the following endpoints:
 - **/api/courses/:id (DELETE)**: Delete a course by ID.
 - **/api/courses/:id/rate (POST)**: Add a rating to a course.
 
-## Conclusion
-
 SevenSenses is designed to offer a comprehensive and interactive yoga education experience. With robust features and a user-friendly interface, it aims to meet the needs of both students and instructors, with future enhancements planned to further improve the platform.
 
 

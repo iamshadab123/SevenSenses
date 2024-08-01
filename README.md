@@ -2,6 +2,10 @@
 
 **SevenSenses** is a comprehensive yoga education platform designed to deliver a dynamic and interactive learning experience for users interested in yoga. Built with the MERN stack (MongoDB, Express.js, React.js, Node.js), this platform facilitates seamless course management and user engagement.
 
+## Demo Video
+
+Watch the project demo video here: [SevenSenses Demo](https://drive.google.com/file/d/1Zl0nxV9m6_-VRBGaiJo2peNBfTcgOica/view?usp=drive_link)
+
 ## Project Description
 
 SevenSenses aims to provide:
